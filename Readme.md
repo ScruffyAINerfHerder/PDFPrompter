@@ -34,7 +34,7 @@ These dependencies are listed in the `requirements.txt` file and will be automat
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/pdf-prompter.git
+git clone https://github.com/ScruffyAINerfHerder/pdf-prompter.git
 cd pdf-prompter
 ```
 
